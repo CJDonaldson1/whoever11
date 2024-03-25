@@ -22,10 +22,8 @@ I'm a Full Stack Developer, MERN Stack Enthusiast, and a Content Creator working
 ## 🚀 Some Projects I'm Proud Of
 
 - **CjTheDays Brand Growth** - Spearheaded content strategies resulting in over 4 million YouTube subscribers. [Watch Here](https://www.youtube.com/@CjThese/videos)
-- **Full Stack Social Media App** - A MERN stack application with real-time chat and post sharing features. [See Repo](https://github.com/whoever11/project-name)
 
 ## 🤝 Connect with Me
 
 - LinkedIn: [Charles Donaldson Jr](https://www.linkedin.com/in/charles-donaldson-jr)
 - Instagram: [@cjthesedays](https://www.instagram.com/cjthesedays/?hl=en)
-- Twitter: [@CjTheCreator](https://twitter.com/CjTheCreator)
