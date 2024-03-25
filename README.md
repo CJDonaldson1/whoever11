@@ -8,7 +8,7 @@ I'm a Full Stack Developer, MERN Stack Enthusiast, and a Content Creator working
 - 🔭 Working on special projects at [MrBeast LLC](https://www.youtube.com/user/MrBeast6000) and developing open-source projects.
 - 📫 How to reach me: cj@mrbeastyoutube.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once coordinated a project that achieved over a million views in under 24 hours!
+- ⚡ Fun fact: I enjoy Watching Anime!
 
 ## 💻 Technologies & Tools
 
